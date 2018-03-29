@@ -1,0 +1,20 @@
+.jumbotron {
+  position: absolute;
+  left: 50%;
+  top: auto;
+  display: table;
+  margin: 0 auto;
+  padding: 20px 40px;
+  background-color: rgba(20, 20, 20, .5);
+  box-shadow: none);
+  transform: none;
+  transition: all 1s ease;
+}
+
+.jumbotron:hover{
+  padding: 0;
+  background: ;
+  box-shadow: ;
+  transition: ;
+  border-radius:;
+}
